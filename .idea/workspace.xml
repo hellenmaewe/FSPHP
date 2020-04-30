@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c5f067d-8495-464e-b1e1-e94c70334427" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>C:\xampp\htdocs\fsphp\composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="fsphp" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/uploader" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/paginator" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/cropper" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/router" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/optimizer" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/league/plates" />
+      <path value="$PROJECT_DIR$/vendor/matthiasmullie/minify" />
+      <path value="$PROJECT_DIR$/vendor/matthiasmullie/path-converter" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1aK26jHIuYDJk6IA4mn8Kaslj7s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/cafecontrol" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\fsphp\source\Boot" />
+      <recent name="C:\xampp\htdocs\fsphp" />
+      <recent name="C:\xampp\htdocs\fsphp\shared\scripts" />
+      <recent name="C:\xampp\htdocs\fsphp\shared\styles" />
+      <recent name="C:\xampp\htdocs\fsphp\vendor\bin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\fsphp\themes\cafecontrol" />
+      <recent name="C:\xampp\htdocs\fsphp\themes\cafecontrol\__template" />
+      <recent name="C:\xampp\htdocs\fsphp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/index.php">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",Show Properties" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c5f067d-8495-464e-b1e1-e94c70334427" name="Default Changelist" comment="" />
+      <created>1586469791050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586469791050</updated>
+      <workItem from="1586469792274" duration="18204000" />
+      <workItem from="1586538145499" duration="5732000" />
+      <workItem from="1586796130690" duration="3913000" />
+      <workItem from="1586986279709" duration="5288000" />
+      <workItem from="1587146495799" duration="19500000" />
+      <workItem from="1587582550549" duration="37788000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="44" key="#CLI_Interpreters" timestamp="1586472514693">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="44" key="#CLI_Interpreters/0.0.1366.728@0.0.1366.728" timestamp="1586472514693" />
+    <state x="0" y="29" key="#Notifications" timestamp="1586472406880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="29" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1586472406880" />
+    <state x="25" y="123" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587149832354">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="25" y="123" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587149832354" />
+    <state x="43" y="122" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1587667115060">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="43" y="122" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587667115060" />
+    <state x="46" y="84" key="#index.php" timestamp="1586476110491">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="46" y="84" key="#index.php/0.0.1366.728@0.0.1366.728" timestamp="1586476110491" />
+    <state x="129" y="263" key="ComposerDumpAutoloadDialog" timestamp="1586472350708">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="263" key="ComposerDumpAutoloadDialog/0.0.1366.728@0.0.1366.728" timestamp="1586472350708" />
+    <state x="93" y="287" width="462" height="235" key="ComposerInitDialogKey" timestamp="1586476187762">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="93" y="287" width="462" height="235" key="ComposerInitDialogKey/0.0.1366.728@0.0.1366.728" timestamp="1586476187762" />
+    <state x="184" y="284" key="ComposerValidateDialog" timestamp="1586472099598">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="284" key="ComposerValidateDialog/0.0.1366.728@0.0.1366.728" timestamp="1586472099598" />
+    <state x="104" y="150" key="FileChooserDialogImpl" timestamp="1586476352890">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="104" y="150" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586476352890" />
+    <state x="115" y="204" key="NewPhpClassDialog" timestamp="1587671551352">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="115" y="204" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1587671551352" />
+    <state x="131" y="299" key="NewPhpFileDialog" timestamp="1586530550026">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="131" y="299" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1586530550026" />
+    <state x="56" y="185" key="PHPComposerAddDependencyDialogDimensionKey" timestamp="1586472346030">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="56" y="185" key="PHPComposerAddDependencyDialogDimensionKey/0.0.1366.728@0.0.1366.728" timestamp="1586472346030" />
+    <state x="216" y="8" width="916" height="708" key="SettingsEditor" timestamp="1586477119235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="216" y="8" width="916" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586477119235" />
+    <state x="3" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1587582600145">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="3" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587582600145" />
+    <state x="10" y="8" width="605" height="711" key="find.popup" timestamp="1587665870340">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="10" y="8" width="605" height="711" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1587665870340" />
+    <state x="-41" y="169" key="run.anything.popup" timestamp="1587150355860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-41" y="169" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1587150355860" />
+    <state x="-37" y="49" key="search.everywhere.popup" timestamp="1586477024972">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-37" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586477024972" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/source/App/Web.php</url>
+          <line>124</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
