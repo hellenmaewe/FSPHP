@@ -26,14 +26,14 @@ define("CONF_SITE_DOMAIN", "upinside.com.br");
 /**
  * SOCIAL
  */
-define("CONF_SOCIAL_TWITTER_CREATOR", "@robsonvleite");
-define("CONF_SOCIAL_TWITTER_PUBLISHER", "@robsonvleite");
-define("CONF_SOCIAL_FACEBOOK_APP", "626590460695980");
-define("CONF_SOCIAL_FACEBOOK_PAGE", "hellenmaewe");
-define("CONF_SOCIAL_FACEBOOK_AUTHOR", "robsonvleiteoficial");
-define("CONF_SOCIAL_GOOGLE_PAGE", "107305124528362639842");
-define("CONF_SOCIAL_GOOGLE_AUTHOR", "103958419096641225872");
-define("CONF_SOCIAL_INSTAGRAM_PAGE", "@hellenmaewe");
+define("CONF_SOCIAL_TWITTER_CREATOR", "");
+define("CONF_SOCIAL_TWITTER_PUBLISHER", "");
+define("CONF_SOCIAL_FACEBOOK_APP", "");
+define("CONF_SOCIAL_FACEBOOK_PAGE", "");
+define("CONF_SOCIAL_FACEBOOK_AUTHOR", "");
+define("CONF_SOCIAL_GOOGLE_PAGE", "");
+define("CONF_SOCIAL_GOOGLE_AUTHOR", "");
+define("CONF_SOCIAL_INSTAGRAM_PAGE", "");
 define("CONF_SOCIAL_YOUTUBE_PAGE", "Hellen Maewe");
 
 
@@ -89,8 +89,8 @@ define("CONF_IMAGE_QUALITY", ["jpg" => 75, "png" => 5]);
 define("CONF_MAIL_HOST", "smtp.sendgrid.net");
 define("CONF_MAIL_PORT", "587");
 define("CONF_MAIL_USER", "apikey");
-define("CONF_MAIL_PASS", "**************************");
-define("CONF_MAIL_SENDER", ["name" => "Robson V. Leite", "address" => "cursos@upinside.com.br"]);
+define("CONF_MAIL_PASS", "");
+define("CONF_MAIL_SENDER", ["name" => "", "address" => ""]);
 define("CONF_MAIL_SUPPORT", "hellen.maewep@hotmail.com");
 define("CONF_MAIL_OPTION_LANG", "br");
 define("CONF_MAIL_OPTION_HTML", true);
